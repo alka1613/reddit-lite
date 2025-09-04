@@ -104,9 +104,12 @@ Ensures proper spacing and status bar appearance across iOS and Android.
 ---
 
 ## 🖼️ Screens (Current)
-- <img src="https://github.com/alka1613/reddit-lite/blob/main/readdlite%201.jpg?raw=true" title = "Feed" >
-- <img src="https://github.com/alka1613/reddit-lite/blob/main/readdlite%202.jpg?raw=true" title = "Search" >
-- <img src="https://github.com/alka1613/reddit-lite/blob/main/readdit3.jpg?raw=true" title = "Profile" >
+<div align="centre">
+<img src="https://github.com/alka1613/reddit-lite/blob/main/readdlite%201.jpg?raw=true" title = "Feed" >
+<img src="https://github.com/alka1613/reddit-lite/blob/main/readdlite%202.jpg?raw=true" title = "Search" >
+<img src="https://github.com/alka1613/reddit-lite/blob/main/readdit3.jpg?raw=true" title = "Profile" >
+</div>
+
 
 👉 You can extend these with actual Reddit API data.
 

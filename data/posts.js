@@ -1,0 +1,48 @@
+// Minimal fake posts to drive FlatList
+export const POSTS = [
+  {
+    id: "1",
+    title: "Show HN: I built a minimal RN + Expo clone",
+    subreddit: "r/reactnative",
+    author: "you_build_it",
+    votes: 324,
+    comments: 42,
+    time: "2h",
+  },
+  {
+    id: "2",
+    title: "Flexbox tips: alignItems vs justifyContent (with visuals)",
+    subreddit: "r/css",
+    author: "layout_nerd",
+    votes: 1250,
+    comments: 188,
+    time: "6h",
+  },
+  {
+    id: "3",
+    title: "What’s the simplest way to memoize in React?",
+    subreddit: "r/reactjs",
+    author: "hooks_master",
+    votes: 512,
+    comments: 73,
+    time: "1d",
+  },
+  {
+    id: "4",
+    title: "Why FlatList is better than mapping arrays in RN",
+    subreddit: "r/reactnative",
+    author: "perf_police",
+    votes: 911,
+    comments: 120,
+    time: "1d",
+  },
+  {
+    id: "5",
+    title: "Expo Tips: OTA updates and EAS in 5 minutes",
+    subreddit: "r/expo",
+    author: "ship_fast",
+    votes: 278,
+    comments: 33,
+    time: "2d",
+  },
+];

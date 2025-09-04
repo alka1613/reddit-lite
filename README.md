@@ -104,9 +104,9 @@ Ensures proper spacing and status bar appearance across iOS and Android.
 ---
 
 ## 🖼️ Screens (Current)
-- **FeedScreen.js** → Placeholder feed UI  
-- **SearchScreen.js** → Placeholder search UI  
-- **ProfileScreen.js** → Placeholder profile UI  
+- <img src="https://github.com/alka1613/reddit-lite/blob/main/readdlite%201.jpg?raw=true" title="Feed"> 
+-<img src="https://github.com/alka1613/reddit-lite/blob/main/readdlite%202.jpg?raw=true" title="Search">  
+- <img src="https://github.com/alka1613/reddit-lite/blob/main/readdlite%203.jpg?raw=true" title="Profile"> 
 
 👉 You can extend these with actual Reddit API data.
 

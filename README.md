@@ -56,7 +56,7 @@ npm -v
 
 ### 2️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/reddit-lite.git
+git clone https://github.com/alka1613/reddit-lite,git
 cd reddit-lite
 ```
 
